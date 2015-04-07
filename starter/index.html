@@ -80,8 +80,10 @@
 
   <script>
   var tabs = document.querySelector('paper-tabs');
+  var tabs = document.querySelector('post-list');
 
   tabs.addEventListener('core-select', function() {
+    list.show = tabs.selected;
     console.log("Selected: " + tabs.selected);
   });
   </script>
