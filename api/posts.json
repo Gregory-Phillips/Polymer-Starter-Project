@@ -1,9 +1,9 @@
 [
   {
     "uid": 1,
-    "text" : "Have you heard about the Web Components revolution?",
-    "username" : "Eric",
-    "avatar" : "../images/avatar-01.svg",
+    "text" : "Learning Polymer and Development",
+    "username" : "Greg Phillips",
+    "avatar" : "../images/avatar-greg.svg",
     "favorite": false
   },
   {
@@ -53,6 +53,13 @@
     "text" : "Decentralize!",
     "username" : "Norbert",
     "avatar" : "../images/avatar-05.svg",
+    "favorite": false
+  },
+  {
+    "uid": 9,
+    "text" : "Have you heard about the Web Components revolution?",
+    "username" : "Eric",
+    "avatar" : "../images/avatar-01.svg",
     "favorite": false
   }
 ]
